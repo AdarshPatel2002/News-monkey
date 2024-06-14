@@ -1,0 +1,58 @@
+{
+   "status": "ok",
+   "totalResults": 4,
+   "articles": [
+      {
+         "source": {
+            "id": null,
+            "name": "Hindustan Times"
+         },
+         "author": "HT News Desk",
+         "title": "Election Commission to announce Lok Sabha election schedule tomorrow - Hindustan Times",
+         "description": "Lok Sabha Election 2024 date: The announcement will made during a press conference at 3 pm. | Latest News India",
+         "url": "https://www.hindustantimes.com/india-news/election-commission-to-announce-lok-sabha-election-schedule-on-march-16-101710485818214.html",
+         "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/15/1600x900/election__1710485917895_1710485918113.jpg",
+         "publishedAt": "2024-03-15T08:16:58Z",
+         "content": "Lok Sabha election 2024 date: The Election Commission on Friday said that it will announce the schedule for the Lok Sabha elections and some state assemblies tomorrow.\r\nLok Sabha Election 2024 date: … [+2446 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "Hindustan Times"
+         },
+         "author": "ANI",
+         "title": "Kerala holds voting for Russian presidential elections - Hindustan Times",
+         "description": "Russia's presidential elections began today, and citizens will cast their votes till Sunday across the nation's 11 time zones. | World News",
+         "url": "https://www.hindustantimes.com/world-news/kerala-holds-voting-for-russian-presidential-elections-101710474517906.html",
+         "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/15/1600x900/Russia-Election-12_1710474588882_1710474624694.jpg",
+         "publishedAt": "2024-03-15T04:09:24Z",
+         "content": "Russian citizens residing in Kerala cast their votes for the Russian presidential elections at the booth specifically arranged at the Honorary Consulate of the Russian Federation, Russian House, in T… [+2748 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "Livemint"
+         },
+         "author": "Alka Jain",
+         "title": "Gyanesh Kumar, Sukhbir Singh Sandhu take charge as Election Commissioners today | Mint - Mint",
+         "description": "Newly-appointed Election Commissioners Gyanesh Kumar and Sukhbir Singh Sandhu to assume office today after being selected by PM Narendra Modi on Thursday.",
+         "url": "https://www.livemint.com/news/india/gyanesh-kumar-sukhbir-singh-sandhu-to-take-charge-as-election-commissioners-today-11710471072759.html",
+         "urlToImage": "https://www.livemint.com/lm-img/img/2024/03/15/1600x900/ANI-20240314109-0_1710471276794_1710471313553.jpg",
+         "publishedAt": "2024-03-15T02:52:10Z",
+         "content": "The newly-appointed Election Commissioners Gyanesh Kumar and Sukhbir Singh Sandhu took charge of the office today, Friday. They were appointed election commissioners by the selection panel chaired by… [+2498 chars]"
+      },
+      {
+         "source": {
+            "id": null,
+            "name": "Moneycontrol"
+         },
+         "author": "Moneycontrol News",
+         "title": "What Kovind-led panel has proposed if there's Hung Parliament or assembly - Moneycontrol",
+         "description": "It said that in the event of hung assembly or no-confidence motion, fresh elections can be held for the remainder of the five-year tenure.",
+         "url": "https://www.moneycontrol.com/elections/lok-sabha-election/what-kovind-led-panel-has-proposed-if-theres-hung-parliament-or-assembly-article-12459141.html",
+         "urlToImage": "https://images.moneycontrol.com/static-mcnews/2019/08/2-ram-nath-kovind-770x433.jpg",
+         "publishedAt": "2024-03-14T10:29:34Z",
+         "content": "A high-level panel headed by former President Ramnath Kovind has submitted its report on \"one nation, one election\" to President Droupadi Murmu.\r\nThe panel, formed to examine the feasability of simul… [+1291 chars]"
+      }
+   ]
+}
